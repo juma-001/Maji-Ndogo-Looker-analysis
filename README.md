@@ -57,4 +57,84 @@ The national water survey reveals a significant rural focus in water improvement
   - Drill well: $19,796,500
   - Install public tap(s): $8,214,000
   - Install RO filter: $7,066,500
+- The total count of all aggregated improvements is 6700.
+## Provincial Insights
+### Sokoto Province
+- Total People Served: 4,001,192
+- Total Budgeted Improvement Cost: $40,151,475
+- Rural vs. Urban: Rural areas account for 79.41% of improvements, while urban areas account for 20.59%.
+- Top Improvements (Count):
+  - Install UV and RO filter: 1440
+  - Install RO filter: 1334
+  - Repair infrastructure: 885
+ - Top Improvements (Cost):
+    - 	Install RO filter: $7,398,300
+     -	Install UV and RO filter: $6,036,800
+     -	Install public tap(s): $6,218,000
+ - Total Improvements: 4384
+## Hawassa Province
+- Total People Served: 2,690,982
+- Total Budgeted Improvement Cost: $22,553,325
+- Rural vs. Urban: Rural areas represent 76.41% of improvements, and urban areas 20.59%.
+- Top Improvements (Count):
+    - Install UV and RO filter: 1440
+    - Install RO filter: 1334
+    - Repair infrastructure: 885
+ - Top Improvements (Cost):
+     - Install RO filter: $7,398,300
+     - Install UV and RO filter: $6,036,800
+     - Install public tap(s): $6,218,000
+ - Total Improvements: 4384
+## Akatsi Province
+- Total People Served: 3,753,366
+- Total Budgeted Improvement Cost: $31,355,075
+- Rural vs. Urban: Rural areas account for 87.72% of improvements, while urban areas account for 12.28%.
+- Top Improvements (Count):
+  - Install RO filter: 2056
+  - Repair infrastructure: 910
+  - Install public tap(s): 883
+- Top Improvements (Cost):
+    - Install RO filter: $12,173,700
+    - Install public tap(s): $10,916,000
+    - Drill well: $5,070,250
+- Total Improvements: 4963
+## Amanzi Province
+- Total People Served: 3,196,068
+- Total Budgeted Improvement Cost: $13,428,275
+- Rural vs. Urban: Urban areas represent 50.77% and rural areas 49.23% of improvements.
+- Top Improvements (Count):
+    - Repair infrastructure: 2048
+    - Install public tap(s): 622]
+    - Install RO filter: 523
+- Top Improvements (Cost):
+     - Install public tap(s): $5,900,000
+     - Install RO filter: $2,946,300
+     - Drill well: $2,592,500
+ - Total Improvements: 3748
+## Kilimani Province
+- Total People Served: 4,717,646
+- Total Budgeted Improvement Cost: $39,249,225
+- Rural vs. Urban: Rural areas constitute 72.58% of improvements, and urban areas 27.20%.
+- Top Improvements (Count):
+     - Install RO filter: 1879
+     - Install UV and RO filter: 1852
+     - Repair infrastructure: 1171
+- Top Improvements (Cost):
+    - Install RO filter: $10,380,300
+    - Install public tap(s): $11,775,000
+    - Drill well: $8,908,000
+- Total Improvements: 6700
+
+## Recommendations
+- Strategic Investment in Drill Wells: While costly per instance, drill wells address fundamental access issues and should be strategically implemented in areas with limited existing infrastructure, especially in rural regions where the need is highest.
+- Optimize Filter Installation: Given the high number of RO and UV filter installations, explore cost-effective bulk procurement or local manufacturing options to reduce the per-unit cost while maintaining water quality standards.
+- Prioritize Infrastructure Repair: Repairing existing infrastructure appears to be a relatively cost-effective improvement with significant impact, suggesting a focus on maintenance can yield good returns.
+- Targeted Public Tap Installation: Public tap installations are a substantial investment. Further analysis could identify optimal locations for new taps to maximize reach and minimize cost, potentially by leveraging existing community hubs.
+- Address Rural Disparity: Continue the strong focus on rural areas, as they still represent the largest percentage of improvements needed across provinces. Tailor solutions to specific rural challenges, considering factors like terrain and population density.
+
+
+
+
+
+
 
